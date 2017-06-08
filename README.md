@@ -4,4 +4,4 @@ This is the sample project from my Text-to-Speech tutorial on YouTube. The inclu
 
 Video: https://www.youtube.com/watch?v=KSSsVhoR7FQ
 CMU Source: http://www.speech.cs.cmu.edu/cgi-bin/cmudict
-Experimenting for Indian languages.
+Experimenting on Indian languages.
